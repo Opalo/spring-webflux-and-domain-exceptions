@@ -1,0 +1,3 @@
+rootProject.name = 'exception-mapping'
+
+include 'controller-advice', 'error-attributes', 'exception-handler', 'spec-utils'
